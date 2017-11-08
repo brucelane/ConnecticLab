@@ -41,7 +41,7 @@ public class SteamVR_Teleporter : MonoBehaviour
 		}
 	}
 
-    void DoClick(object sender, ClickedEventArgs e)
+	void DoClick(object sender, ClickedEventArgs e)
 	{
 		if (teleportOnClick)
 		{
