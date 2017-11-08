@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 805306368,
+"dataUrl": "Jeu-test.data.unityweb",
+"asmCodeUrl": "Jeu-test.asm.code.unityweb",
+"asmMemoryUrl": "Jeu-test.asm.memory.unityweb",
+"asmFrameworkUrl": "Jeu-test.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
